@@ -10,8 +10,8 @@ In this assignment you will read about accessibility on the web and use your kno
   * [Getting started with ARIA](http://a11yproject.com/posts/getting-started-aria/)
   * [ARIA Landmark Roles](http://a11yproject.com/posts/aria-landmark-roles/)
   * [Data Tables](http://webaim.org/techniques/tables/data)
-2. Fork/clone this repo.
-3. In your cloned/forked version of the repo, edit the `index.html` and `style.css` to **make the web page accessible based on the readings**. I'm looking for the following updates/additions:
+2. **Fork** this repo.
+3. In your forked version of the repo, edit the `index.html` and `style.css` to **make the web page accessible based on the readings**. I'm looking for the following updates/additions:
   * color contrast
   * ARIA roles
   * data tables
