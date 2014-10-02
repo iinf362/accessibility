@@ -4,9 +4,9 @@ In this assignment you will read about accessibility on the web and use your kno
 
 1. Read the following articles and download/install any tools used in demonstration.
   * [Understanding Visual Impairment](http://a11yproject.com/posts/understanding-visual-impairment/)
+  * [An alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-july-31)
   * [Easy Color Contrast Testing](http://alistapart.com/blog/post/easy-color-contrast-testing) | [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/reviews?hl=en)
   * [Alt text](http://a11yproject.com/posts/alt-text/)
-  * [An alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-july-31)
   * [Getting started with ARIA](http://a11yproject.com/posts/getting-started-aria/)
   * [ARIA Landmark Roles](http://a11yproject.com/posts/aria-landmark-roles/)
   * [Data Tables](http://webaim.org/techniques/tables/data)
